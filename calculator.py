@@ -66,3 +66,5 @@ while True:
     print(f"Результат: {result}")
   except ValueError:
     print("Помилка: введіть коректні числа!")
+    #this calculator is the best for sure
+    
